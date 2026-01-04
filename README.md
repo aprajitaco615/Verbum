@@ -20,7 +20,7 @@ A word guessing game that helps you hone your vocabulary
 ### ⚙️ Self-Initializing Setup  
  * Includes a first-time setup process that automatically builds the necessary database and local word files on the first run.  
 ## 📦 Verbum Dependencies  
-​### External Libraries  
+### External Libraries  
 ​mysql-connector-python: Required for connecting to the MySQL database and performing CRUD operations on user profiles.  
 ​nltk: The Natural Language Toolkit, used specifically for downloading the 'words' and 'wordnet' corpora to generate the word bank.  
 ​termcolor: Used to provide colored terminal output for visual feedback during gameplay.  
